@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/valteruo/static/css/main.d1b05096.chunk.css",
+    "main.js": "/valteruo/static/js/main.292d0126.chunk.js",
+    "main.js.map": "/valteruo/static/js/main.292d0126.chunk.js.map",
+    "runtime-main.js": "/valteruo/static/js/runtime-main.60c21f07.js",
+    "runtime-main.js.map": "/valteruo/static/js/runtime-main.60c21f07.js.map",
+    "static/js/2.eb42f934.chunk.js": "/valteruo/static/js/2.eb42f934.chunk.js",
+    "static/js/2.eb42f934.chunk.js.map": "/valteruo/static/js/2.eb42f934.chunk.js.map",
+    "index.html": "/valteruo/index.html",
+    "precache-manifest.94154926785f3658795229d2deb45f1f.js": "/valteruo/precache-manifest.94154926785f3658795229d2deb45f1f.js",
+    "service-worker.js": "/valteruo/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/valteruo/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.eb42f934.chunk.js.LICENSE.txt": "/valteruo/static/js/2.eb42f934.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/valteruo/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.60c21f07.js",
+    "static/js/2.eb42f934.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.292d0126.chunk.js"
+  ]
+}
